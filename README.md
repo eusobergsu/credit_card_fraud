@@ -19,7 +19,7 @@ Executar a limpeza do conjunto de dados e posteriormente executar três diferent
 * **used_pin_number** : Define se foi utilizado o numero pin na transação.
 * **online_order** : Define se a transação se trata de um pagamento online.
 * **fraud** : A transação é fraudulenta.
-*
+
 
 ## Como executar o projeto
 1. Crie o ambiente com o comando:
